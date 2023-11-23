@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ccdf6e9f94bd48f2b9a5f1ce3b4d4a5e',
+  rootNotionPageId: 'b52e59d5d1cc4b209b2edfc77b35042d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ShaunDesign',
-  domain: 'https://habitual-collar-f8a.notion.site/Hello-I-m-Shaun-1-ccdf6e9f94bd48f2b9a5f1ce3b4d4a5e?pvs=4',
+  domain: 'https://habitual-collar-f8a.notion.site/Hello-I-m-Shaun-b52e59d5d1cc4b209b2edfc77b35042d?pvs=4',
   author: 'Shaun',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: 'fisch2',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
