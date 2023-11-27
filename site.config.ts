@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b52e59d5d1cc4b209b2edfc77b35042d',
+  rootNotionPageId: '3888c0dd6bd643c2affc613326d35ba6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ShaunDesign',
-  domain: 'https://habitual-collar-f8a.notion.site/Hello-I-m-Shaun-b52e59d5d1cc4b209b2edfc77b35042d?pvs=4',
+  domain: 'https://habitual-collar-f8a.notion.site/Next-js-Notion-Starter-Kit-Template-3888c0dd6bd643c2affc613326d35ba6?pvs=4',
   author: 'Shaun',
 
   // open graph metadata (optional)
@@ -55,11 +55,11 @@ export default siteConfig({
   // navigationLinks: [
   //   {
   //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     pageId: '70538273dd584e40a4b015aca9df98a6'
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     pageId: 'cda0449e0e984cfdb29c7b23d20bc95e'
   //   }
   // ]
 })
